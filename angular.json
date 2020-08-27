@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app"
+    }
+  },
+  "defaultProject": "app",
+  "cli": {
+    "analytics": "2c796291-ee6c-41ee-9bef-5335c84ad08a"
+  }
 }
